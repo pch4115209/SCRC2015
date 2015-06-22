@@ -1,0 +1,2 @@
+javac -d bin src/scr/*.java src/scr/data/*.java src/scr/ea/*.java src/scr/ea/crossover/*.java src/scr/ea/mutation/*.java src/scr/ea/selection/*.java src/scr/net/*.java
+jar cfe group_3_driver.jar scr.Main -C bin scr drivers

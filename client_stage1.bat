@@ -1,0 +1,1 @@
+java -jar group_3_driver.jar port:3001 track:forza stage:1 maxSteps:10000 > group_3_forza_stage1.txt

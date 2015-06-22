@@ -1,0 +1,343 @@
+Track	fspeedway
+Generation	Average Lap Time
+0	75.174
+1	72.806
+2	72.806
+3	72.806
+4	71.12666666666667
+5	70.70533333333333
+
+gearUp=6273,5142,6930,11035,5076,0
+gearDown=0,2428,2637,2042,4082,3320
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=58.340473
+maxSpeed=230.46143
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=0.96891534
+approachSensitivity=1.1154991
+approachCorrection=0.95686704
+
+
+6	69.71266666666666
+7	68.94533333333332
+8	66.71733333333333
+9	66.10333333333334
+10	59.31666666666666
+
+gearUp=5581,6199,6754,8979,4838,0
+gearDown=0,2400,3267,3237,3031,2555
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=68.23189
+maxSpeed=233.83025
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=1.6333096
+approachSensitivity=1.7007241
+approachCorrection=0.8773241
+
+
+11	59.31666666666666
+12	59.31666666666666
+13	58.19466666666667
+14	58.19466666666667
+15	58.19466666666667
+
+gearUp=8320,6322,6510,6389,4199,0
+gearDown=0,2599,3748,3411,3509,2344
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=72.93078
+maxSpeed=259.6035
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=1.7904576
+approachSensitivity=1.76322
+approachCorrection=0.8197481
+
+
+16	56.415333333333336
+17	56.415333333333336
+18	55.84866666666667
+19	55.84866666666667
+20	55.34733333333333
+
+gearUp=7594,5242,6100,6376,4205,0
+gearDown=0,2598,3573,4009,3337,3090
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=75.882164
+maxSpeed=251.95451
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=2.1145012
+approachSensitivity=2.359005
+approachCorrection=0.4397145
+
+
+21	52.23066666666667
+22	49.60133333333332
+23	49.60133333333332
+24	48.792
+25	48.792
+
+gearUp=9603,6363,7036,3409,3961,0
+gearDown=0,2207,3808,2052,4277,3426
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=71.47043
+maxSpeed=319.36127
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=2.5086315
+approachSensitivity=1.9617212
+approachCorrection=0.79281247
+
+
+26	48.792
+27	48.792
+28	48.792
+29	48.698
+30	48.473333333333336
+
+gearUp=5548,8373,8053,5438,3672,0
+gearDown=0,2081,3406,4274,2369,2602
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=72.296036
+maxSpeed=307.2828
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=2.848807
+approachSensitivity=1.7959714
+approachCorrection=0.5103026
+
+
+31	48.42600000000001
+32	48.42600000000001
+33	48.373333333333335
+34	48.29
+35	48.29
+
+gearUp=9521,6603,9689,3931,3857,0
+gearDown=0,2580,1853,3753,4629,3467
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=87.070755
+maxSpeed=305.6527
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=2.2225943
+approachSensitivity=2.360095
+approachCorrection=0.5519913
+
+
+36	48.09133333333333
+37	48.03133333333333
+38	48.03133333333333
+39	48.03133333333333
+40	47.88066666666666
+
+gearUp=6326,8543,9444,4445,6454,0
+gearDown=0,2090,4090,1599,4544,3525
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=66.636986
+maxSpeed=376.6594
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=2.4984977
+approachSensitivity=2.4486356
+approachCorrection=0.7962337
+
+
+41	47.88066666666666
+42	47.88066666666666
+43	47.75866666666667
+44	47.75866666666667
+45	47.75866666666667
+
+gearUp=6482,8784,9066,4754,7358,0
+gearDown=0,1910,3819,2067,5005,3460
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=66.54449
+maxSpeed=506.49347
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=2.4921527
+approachSensitivity=2.5102265
+approachCorrection=0.7770883
+
+
+46	47.73733333333333
+47	47.73733333333333
+48	47.416
+49	47.416
+50	47.416
+
+gearUp=6574,8950,9576,4655,8540,0
+gearDown=0,1824,3590,2072,3420,3438
+stuckTime=25
+stuckAngle=0.5235988
+maxSpeedDist=72.03076
+maxSpeed=484.62268
+sin5=0.08716
+cos5=0.99619
+steerLock=0.366519
+steerSensitivityOffset=80.0
+wheelSensitivityCoeff=1.0
+wheelRadius=0.3306,0.3306,0.3276,0.3276
+absSlip=2.0
+absRange=3.0
+absMinSpeed=3.0
+clutchMax=0.5
+clutchDelta=0.05
+clutchRange=0.82
+clutchDeltaTime=0.02
+clutchDeltaRaced=10.0
+clutchDec=0.01
+clutchMaxModifier=1.3
+clutchMaxTime=1.5
+approachPosition=2.5483828
+approachSensitivity=2.9250717
+approachCorrection=0.8123194
+
+
